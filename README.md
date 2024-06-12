@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/behindd/Python-Server-MadeEasy/assets/76596012/b5e8a0a9-1e21-4f12-bd4b-f8097b1d0b95" alt="NCG327-2" width="600" height="600">
+      <img src="https://github.com/behindd/Python-Server-MadeEasy/assets/76596012/b5e8a0a9-1e21-4f12-bd4b-f8097b1d0b95" alt="NCG327-2" width="700" height="600">
     </td>
     <td>
       <h2>Bash Script</h2>
