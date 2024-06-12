@@ -16,7 +16,8 @@
         <li>Displays an error message if tun0 does not exist</li>
       </ul>
       <p>However, when using 'python3 -m http.server,' you won't receive a message indicating that 'tun0' does not exist. It continues to run as usual until you realize that 'tun0' is not available.</p>
-    ![F8umLgOWYAAaW2_](https://github.com/behindd/Python-Server/assets/76596012/c632d553-3f83-4c78-acfd-f1634a988c9b)
+         <img src="https://github.com/behindd/Python-Server/assets/76596012/c632d553-3f83-4c78-acfd-f1634a988c9b" alt="F8umLgOWYAAaW2_" width="400" height="400">
+      ![F8umLgOWYAAaW2_](https://github.com/behindd/Python-Server/assets/76596012/c632d553-3f83-4c78-acfd-f1634a988c9b)
     </td>
   </tr>
 </table>
