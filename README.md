@@ -1,5 +1,4 @@
 # Python-Server
-<table>
   <tr>
     <td>
     </td>
@@ -18,4 +17,3 @@
          <img src="https://github.com/behindd/Python-Server/assets/76596012/c632d553-3f83-4c78-acfd-f1634a988c9b" alt="F8umLgOWYAAaW2_" width="700" height="200">
     </td>
   </tr>
-</table>
